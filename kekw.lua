@@ -1,4 +1,3 @@
-workspace.FallenPartsDestroyHeight = -50000
 local placeId = game.PlaceId
 
 if placeId == 6152116144 or placeId == 13883279773 then
